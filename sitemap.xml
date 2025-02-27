@@ -1,0 +1,43 @@
+<?xml?>
+<urlset>
+    <url>
+        <loc>
+            http://localhost:8000/hello-world/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/posts-pages/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/ways-that-people-can-celebrate/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/contact-page/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/posts-pages/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/author/fahad9786/
+        </loc>
+    </url>
+</urlset>
