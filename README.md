@@ -1,4 +1,4 @@
-# cd-wordpress
+# midterm-wordpress
 continuous deployment wordpress
 
 TLDR;
